@@ -14,4 +14,4 @@ echo "------------------------------------------------"
 
 # Recherche tous les fichiers
 # et compte le nombre de lignes pour chacun ainsi que le total
-find "$DOSSIER" -type f -not -path '*/.*' -exec wc -l {} +
+find "$DOSSIER" -type f -exec wc -l {} +
