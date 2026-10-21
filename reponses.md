@@ -1,0 +1,3 @@
+# Réponses
+## TP1 Question 7
+Une mesure est valide si elle respecte les relations de la réalité (si a est plus complexe que b alors M(a) > M(b)). Pour Halstead le comptage dépend de conventions arbitraires, par exemple le cours dit pas si les parenthèses ou les points virgules sont des opérateurs, donc deux personnes peuvent trouver des valeurs différentes pour le même code. En plus les formules de la difficulté et de l'effort sont pas justifiés, on sait pas pourquoi on divise par 2. Donc on peut pas prouver que ces métriques mesurent vraiment ce qu'elles disent, c'est pour sa que leur validité est discutable.
